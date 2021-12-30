@@ -8,9 +8,9 @@ const RenderPage = () => (
     <div className={sharedStyles.layout}>
       <div className="explanation">
         <p>
-          easy-notion-blog powered by{' '}
-          <ExtLink href="https://github.com/otoyo/easy-notion-blog">
-            otoyo/easy-notion-blog
+          大学生の日記です。Twitter⇨
+          <ExtLink href="https://twitter.com/hydrargyrum800">
+            @hhydrargyrum800
           </ExtLink>
         </p>
       </div>
