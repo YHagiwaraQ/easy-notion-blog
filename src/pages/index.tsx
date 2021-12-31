@@ -10,7 +10,7 @@ const RenderPage = () => (
         <p>
           大学生の日記です。Twitter⇨
           <ExtLink href="https://twitter.com/hydrargyrum800">
-            @hhydrargyrum800
+            @hydrargyrum800
           </ExtLink>
         </p>
       </div>
