@@ -10,7 +10,7 @@ const navItems: { label: string; page?: string; link?: string }[] = [
   { label: 'Blog', page: '/blog' },
 ]
 
-const defaultTitle = 'ネットde釣り日記'
+const defaultTitle = '海釣り日記'
 const defaultDescription =
   'defalutdescription'
 
