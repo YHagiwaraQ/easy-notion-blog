@@ -8,10 +8,7 @@ const RenderPage = () => (
     <div className={sharedStyles.layout}>
       <div className="explanation">
         <p>
-          ネットの海を彷徨っています。Twitter⇨
-          <ExtLink href="https://twitter.com/hydrargyrum800">
-            @hydrargyrum800
-          </ExtLink>
+          ネットの海を彷徨っています。
         </p>
       </div>
     </div>
