@@ -8,7 +8,7 @@ const RenderPage = () => (
     <div className={sharedStyles.layout}>
       <div className="explanation">
         <p>
-          ネットの海を彷徨っています。
+          Uniquenessがないです...
         </p>
       </div>
     </div>
